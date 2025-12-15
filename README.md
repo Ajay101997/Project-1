@@ -1,1 +1,3 @@
 # Project-1
+# Excel is used in the Bike Sharing Demand Analysis project to investigate rental trends. It is evident from KPIs, PivotTables, and an interactive dashboard that the demand for bikes is greatest in the summer and lowest in the winter. Rainy days result in a large decrease in rentals, while clear weather stimulates more rides. Commuter peaks occur between 8 AM and 6 PM, according to hourly averages, and most rides are taken by registered users. All things considered, the dashboard offers lucid, data-driven insights to comprehend and prepare for demands for bike sharing that vary according to the seasons and the weather.
+<img width="12603" height="88" alt="image" src="https://github.com/user-attachments/assets/b167d268-264e-4a69-961d-efa61403901d" />
